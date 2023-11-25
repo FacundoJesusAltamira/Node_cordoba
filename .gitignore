@@ -16,7 +16,6 @@
 *.zip
 *~
 *.env
-*.json 
 
 # OS or Editor folders
 ._*
@@ -45,3 +44,4 @@ Thumbs.db
 /node_modules
 /dist
 /*/node_modules
+*package-lock.json
